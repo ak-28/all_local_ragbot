@@ -1,6 +1,6 @@
 # All local ragbot
 
-<!-- create new environment: 
+create new environment: 
 	conda create -n ragbot python=3.10 -y
 	conda activate ragbot
 
@@ -15,4 +15,4 @@ ollama installation:
 
 
 stop:
-	sudo systemctl stop ollama -->
+	sudo systemctl stop ollama
